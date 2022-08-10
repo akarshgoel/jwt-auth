@@ -1,3 +1,3 @@
 # JWT Auth Token Verification
 
-Demo code for JWT Token Setup - Issueance & Verification
+Demo code for JWT Token Creation & Verification
